@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://www.devops-engineer.com.cn" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng@master/assets/header.svg" width="800" height="400">
+		<img src="https://raw.githubusercontent.com/gitlayzer/gitlayzer/master/assets/logo.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
