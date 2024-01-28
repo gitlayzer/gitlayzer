@@ -9,7 +9,7 @@
 <br>
 
 ### Code & Skills
-![](https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,docker,linux,ansible,cloudflare,css,github,go,md)
+![](https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,docker,linux,bash,go,python,mysql,ansible,jenkins,nginx,vue,js)
 
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
