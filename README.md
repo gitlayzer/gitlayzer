@@ -30,6 +30,7 @@
 * [TLS_CHECK](https://github.com/gitlayzer/tls_check)
 * [Picturectl](https://github.com/gitlayzer/picturectl)
 * [Gee](https://github.com/gitlayzer/gee)
+* [Upgrade](https://github.com/gitlayzer/upgrade-controller)
 
 ### My blog
 <!-- blog starts -->
