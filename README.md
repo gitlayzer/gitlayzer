@@ -38,6 +38,7 @@
 * [Flannel Notes](https://www.devops-engineer.com.cn/article/flannel_notes.html)
 * [Caolico Notes](https://www.devops-engineer.com.cn/article/calico_notes.html)
 * [Linkerd Notes](https://www.devops-engineer.com.cn/article/linkerd_study_notes.html)
+* [Higress Notes](https://www.devops-engineer.com.cn/article/higress_notes.html)
 * [ApiSix Notes](https://www.devops-engineer.com.cn/article/use_apisix.html)
 * [OpenKruise Notes](https://www.devops-engineer.com.cn/article/use_openkruise.html)
 * [VictoriaMetrics Notes](https://www.devops-engineer.com.cn/article/use_victoriametrics.html)
@@ -45,7 +46,13 @@
 * [Kubernetes Ingress Notes](https://www.devops-engineer.com.cn/article/ingress_use.html)
 * [Kubernetes Pod Lifecycle Notes](https://www.devops-engineer.com.cn/article/pod_lificycle.html)
 * [Flux CD Notes](https://www.devops-engineer.com.cn/article/use_fluxcd_notes.html)
+* [Helm Notes](https://www.devops-engineer.com.cn/article/helm_notes.html)
+* [Vue3 Notes](https://www.devops-engineer.com.cn/article/vue3_notes.html)
+* [MySQN Notes](https://www.devops-engineer.com.cn/article/mysql_notes.html)
+* [Eraser Notes](https://www.devops-engineer.com.cn/article/eraser_notes.html)
 * [Jenkins / ArgoCD / Argo Rollouts for Kuberentes](https://www.devops-engineer.com.cn/article/use-jenkins_argocd_argo-rollout-for-kubernetes.html)
+* [Pod 原地升级](https://www.devops-engineer.com.cn/article/pod%20In-place%20upgrade.html)
+
 <!-- blog ends -->
 👉 [Go To Blog`](https://www.devops-engineer.com.cn)
 </td><td valign="top">
