@@ -29,7 +29,7 @@
 <!-- project starts -->
 * [TLS_CHECK](https://github.com/gitlayzer/tls_check)
 * [Gee](https://github.com/gitlayzer/gee)
-* [Gee_LoadBalancer](https://github.com/gitlayzer/gee_loadbalancer)
+* [LoadBalancer](https://github.com/gitlayzer/gee_loadbalancer)
 * [Upgrade](https://github.com/gitlayzer/upgrade-controller)
 * [Picturectl](https://github.com/gitlayzer/picturectl)
 
