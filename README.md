@@ -27,7 +27,7 @@
 
 ### My project
 <!-- project starts -->
-* [TLS_CHECK](https://github.com/gitlayzer/tls_check)
+* [TLS_Check](https://github.com/gitlayzer/tls_check)
 * [Gee](https://github.com/gitlayzer/gee)
 * [LoadBalancer](https://github.com/gitlayzer/gee_loadbalancer)
 * [Upgrade](https://github.com/gitlayzer/upgrade-controller)
