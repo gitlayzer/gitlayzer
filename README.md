@@ -53,6 +53,11 @@
 * [Eraser Notes](https://www.devops-engineer.com.cn/article/eraser_notes.html)
 * [Jenkins / ArgoCD / Argo Rollouts for Kuberentes](https://www.devops-engineer.com.cn/article/use-jenkins_argocd_argo-rollout-for-kubernetes.html)
 * [Pod 原地升级](https://www.devops-engineer.com.cn/article/pod%20In-place%20upgrade.html)
+* [Karmada Notes](https://blog.devops-engineer.com.cn/article/karmada_notes.html)
+* [Ansible Notes](https://blog.devops-engineer.com.cn/article/ansible%20notes)
+* [Envoy Notes](https://blog.devops-engineer.com.cn/article/envoy%20notes.html)
+* [Higress Notes](https://blog.devops-engineer.com.cn/article/higress_notes.html)
+* [Kyverno Notes](https://blog.devops-engineer.com.cn/article/kyverno_notes.html)
 
 <!-- blog ends -->
 👉 [Go To Blog`](https://www.devops-engineer.com.cn)
