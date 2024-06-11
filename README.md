@@ -49,7 +49,7 @@
 * [Flux CD Notes](https://www.devops-engineer.com.cn/article/use_fluxcd_notes.html)
 * [Helm Notes](https://www.devops-engineer.com.cn/article/helm_notes.html)
 * [Vue3 Notes](https://www.devops-engineer.com.cn/article/vue3_notes.html)
-* [MySQN Notes](https://www.devops-engineer.com.cn/article/mysql_notes.html)
+* [MySQL Notes](https://www.devops-engineer.com.cn/article/mysql_notes.html)
 * [Eraser Notes](https://www.devops-engineer.com.cn/article/eraser_notes.html)
 * [Jenkins / ArgoCD / Argo Rollouts for Kuberentes](https://www.devops-engineer.com.cn/article/use-jenkins_argocd_argo-rollout-for-kubernetes.html)
 * [Pod 原地升级](https://www.devops-engineer.com.cn/article/pod%20In-place%20upgrade.html)
