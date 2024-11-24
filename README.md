@@ -27,10 +27,11 @@
 
 ### My project
 <!-- project starts -->
-* [TLS_Check](https://github.com/gitlayzer/tls_check)
+
 * [Gee](https://github.com/gitlayzer/gee)
-* [LoadBalancer](https://github.com/gitlayzer/gee_loadbalancer)
 * [Upgrade](https://github.com/gitlayzer/upgrade-controller)
+* [TLS_Check](https://github.com/gitlayzer/tls_check)
+* [LoadBalancer](https://github.com/gitlayzer/gee_loadbalancer)
 
 ### My blog
 <!-- blog starts -->
