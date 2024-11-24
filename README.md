@@ -9,15 +9,7 @@
 <br>
 
 ### Code & Skill
-![](https://skillicons.dev/icons?i=linux,ubuntu,redhat)
-![](https://skillicons.dev/icons?i=django,fastapi,flask)
-![](https://skillicons.dev/icons?i=pnpm,yarn,vite)
-![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb)
-![](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus)
-![](https://skillicons.dev/icons?i=elasticsearch,redis,kafka,rocket,nginx)
-![](https://skillicons.dev/icons?i=github,gitlab,githubactions,jenkins,terraform)
-![](https://skillicons.dev/icons?i=go,python,js,ts,bash,markdown)
-![](https://skillicons.dev/icons?i=vue,pinia,react,redux,scss,tailwind)
+![](https://skillicons.dev/icons?i=linux,ubuntu,redhat,django,fastapi,flask,pnpm,yarn,vite,mysql,sqlite,postgresql,mongodb,kubernetes,docker,grafana,prometheus,elasticsearch,redis,kafka,rocket,nginx,github,gitlab,githubactions,jenkins,terraform,go,python,js,ts,bash,markdown,vue,pinia,react,redux,scss,tailwind)
 
 <table><tr><td valign="top">
 
