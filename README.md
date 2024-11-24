@@ -8,20 +8,16 @@
 
 <br>
 
-### Code & Skills
-![](https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,docker,linux,bash,go,python,mysql,ansible,jenkins,nginx,vue,js)
-
-[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=ffffff)](https://podman.io/)
-[![](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)](https://prometheus.io/)
-[![](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)](https://grafana.com/)
-[![](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=ffffff)](https://goharbor.io/)
-[![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![](https://img.shields.io/badge/-Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=ffffff)](https://ceph.io/)
-[![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
+### Code & Skill
+![](https://skillicons.dev/icons?i=linux,ubuntu,redhat)
+![](https://skillicons.dev/icons?i=django,fastapi,flask)
+![](https://skillicons.dev/icons?i=pnpm,yarn,vite)
+![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb)
+![](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus)
+![](https://skillicons.dev/icons?i=elasticsearch,redis,kafka,rocket,nginx)
+![](https://skillicons.dev/icons?i=github,gitlab,githubactions,jenkins,terraform)
+![](https://skillicons.dev/icons?i=go,python,js,ts,bash,markdown)
+![](https://skillicons.dev/icons?i=vue,pinia,react,redux,scss,tailwind)
 
 <table><tr><td valign="top">
 
