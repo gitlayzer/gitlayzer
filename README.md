@@ -50,17 +50,26 @@ status:
 <td width="50%" valign="top">
 
 <h3 align="center">🧠 AI Terminal</h3>
-<p align="center"><i>Modern, Dialogue-Driven Multi-Terminal Ops Workbench</i></p>
+<p align="center"><i>Dialogue-Driven Ops Workbench</i></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">☸️ KtConnect</h3>
+<p align="center"><i>K8s Dev Environment Toolkit</i></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ```bash
-$ ai-terminal --query "Check load on all web servers"
-> 🤖 AI: I'll run 'uptime' on [web-01, web-02, web-03]
-> � Executing command across 3 terminals...
-> 📊 Analysis:
->  - web-01: Load 0.45 (Healthy)
->  - web-02: Load 0.52 (Healthy)
->  - web-03: Load 2.10 (High Load! ⚠️)
-> 💡 Suggestion: Check process list on web-03
+$ ai-terminal --query "Check web load"
+> 🤖 AI: Running 'uptime' on servers...
+> 🚀 Executing command...
+> 📊 web-01: 0.45 (OK)
+> 📊 web-02: 2.10 (High Load! ⚠️)
+> 💡 Suggestion: Check process list
 ```
 
 <div align="center">
@@ -73,9 +82,6 @@ $ ai-terminal --query "Check load on all web servers"
 
 </td>
 <td width="50%" valign="top">
-
-<h3 align="center">☸️ KtConnect</h3>
-<p align="center"><i>K8s Dev Environment Toolkit</i></p>
 
 ```bash
 $ ktctl connect --method vpn
@@ -112,15 +118,32 @@ $ curl http://10.244.0.5:8080
 
 ### 📊 `git_stats.json`
 
+```json
+{
+  "github": {
+    "contributions": "Daily",
+    "pull_requests": {
+      "opened": "Infinite",
+      "merged": "Most"
+    }
+  },
+  "strengths": ["Cloud Native", "Go", "Kubernetes", "AI"],
+  "weekly_coding_habit": {
+    "monday":    "Bug Fixes 🐛",
+    "tuesday":   "New Features ✨",
+    "wednesday": "Code Review 👀",
+    "thursday":  "Documentation 📝",
+    "friday":    "Deploy to Prod 🚀",
+    "weekend":   "Learning & Coffee ☕"
+  }
+}
+```
+
 <div align="center">
-  <p>
-    <a href="https://github.com/gitlayzer">
-      <img src="https://github-readme-stats.vercel.app/api?username=gitlayzer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="150" alt="stats" />
-    </a>
-    <a href="https://github.com/gitlayzer">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitlayzer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&hide=html,css" height="150" alt="langs" />
-    </a>
-  </p>
+  <!-- Contribution Snake -->
+  <a href="https://github.com/gitlayzer">
+    <img src="https://raw.githubusercontent.com/gitlayzer/gitlayzer/output/github-contribution-grid-snake.svg" alt="snake" />
+  </a>
 </div>
 
 <br/>
