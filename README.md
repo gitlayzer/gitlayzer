@@ -139,6 +139,10 @@ $ curl http://10.244.0.5:8080
 }
 ```
 
+<img width="860" height="230" alt="gitlayzer-space-shooter" src="https://github.com/user-attachments/assets/d09f0b65-128a-44a8-a237-5d2668f3b34d" />
+
+<br/>
+
 <div align="center">
   <!-- Contribution Snake -->
   <a href="https://github.com/gitlayzer">
@@ -147,7 +151,6 @@ $ curl http://10.244.0.5:8080
 </div>
 
 <br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gitlayzer&label=VISITORS&color=238636&style=for-the-badge&labelColor=0D1117" alt="views" />
 </div>
